@@ -1,9 +1,7 @@
 # D. Malk
 ## Ma'oe 👋, I'm Daniel Malkafly, I'm a Code Exorcist (also developer)
 
-- 🔭 I’m currently working on *CloudWalk*
-
-- 👯 I’m looking to collaborate on **e-commerce Projects**
+- 🔭 I’m currently working on *Vistoria Completa*
 
 - 💬 Ask me about **javascript, c# and php**
 
