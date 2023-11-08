@@ -1,10 +1,6 @@
 # D. Malk
 ## Ma'oe 👋, I'm Daniel Malkafly, I'm a Code Exorcist (also developer)
-
-- 🔭 I’m currently working on *Vistoria Completa*
-
 - 💬 Ask me about **javascript, c# and php**
-
 - 📫 How to reach me **github.com/malkafly**
 
 <br />
